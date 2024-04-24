@@ -2,6 +2,7 @@ import React, { useEffect, useState } from 'react';
 import AgoraRTC, { createClient } from 'agora-rtc-sdk-ng';
 import { VideoPlayer } from './VideoPlayer';
 
+//put app_id and token from agora
 const APP_ID = 'a75cfe4277c74f63b49487953011693b';
 const TOKEN =
     "007eJxTYNC6VleX6rhgve+8J3vOdnu0MEw18vmQ2K1+xnhG5Zl4m20KDInmpslpqSZG5ubJ5iZpZsZJJpYmFuaWpsYGhoZmlsZJE7+rpzUEMjJcvnCBmZEBAkF8TgbnxJyczLz00GIGBgAQqiH3";
