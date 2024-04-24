@@ -16,7 +16,7 @@ function Navbar() {
           <Link
             onClick={handleLogout}
             to="/"
-            className="text-base btn btn-warning px-5 absolute right-16 text-white"
+            className="text-base btn btn-warning px-5 absolute right-16 text-white bg-blue-800  py-1 rounded-md mt-2"
           >
             Logout
           </Link>
