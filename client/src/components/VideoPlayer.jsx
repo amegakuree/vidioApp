@@ -3,7 +3,7 @@ import React, {
     useLayoutEffect,
     useRef,
 } from 'react';
-
+//this is videoPlayer
 export const VideoPlayer = ({ user }) => {
     const ref = useRef();
 
