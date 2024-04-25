@@ -3,10 +3,9 @@ import AgoraRTC, { createClient } from 'agora-rtc-sdk-ng';
 import { VideoPlayer } from './VideoPlayer';
 
 //put app_id and token from agora
-const APP_ID = 'a75cfe4277c74f63b49487953011693b';
-const TOKEN =
-    "007eJxTYNC6VleX6rhgve+8J3vOdnu0MEw18vmQ2K1+xnhG5Zl4m20KDInmpslpqSZG5ubJ5iZpZsZJJpYmFuaWpsYGhoZmlsZJE7+rpzUEMjJcvnCBmZEBAkF8TgbnxJyczLz00GIGBgAQqiH3";
-const CHANNEL = 'CallingUs';
+const APP_ID = '832907e7998c49b0a141ee75201e2eac';
+const TOKEN ="007eJxTYHjlNPn/zQNqCyrTb6u7OcZukwsrNuTVnHTV92xSSeSHpB8KDBbGRpYG5qnmlpYWySaWSQaJhiaGqanmpkYGhqlGqYnJ6mc00xoCGRlWKq9mYIRCEJ+bwb2otCCgKD8rNbmEgQEAKK4hqA==";
+const CHANNEL = 'GrupProject';
 
 AgoraRTC.setLogLevel(4);
 
